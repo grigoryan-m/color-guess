@@ -49,4 +49,8 @@ input[type=range]:nth-child(2){
 }
 input[type=range]:nth-child(3){
     accent-color: blue;
-  }
+}
+button{
+    padding: 10px;
+    cursor: pointer;
+}
